@@ -1,0 +1,12 @@
+Model Metrics Sheet: XGBoost Regression
+
+1. Original Model:
+   - Mean Absolute Error (MAE): 78.07
+   - Mean Squared Error (MSE): 22634.41
+   - Root Mean Squared Error (RMSE): 150.45
+
+2. Best Model (After Grid Search):
+   - Best Hyperparameters: {'learning_rate': 0.2, 'max_depth': 7, 'n_estimators': 200}
+   - Mean Absolute Error (MAE): 70.11
+   - Mean Squared Error (MSE): 18634.90
+   - Root Mean Squared Error (RMSE): 136.51
